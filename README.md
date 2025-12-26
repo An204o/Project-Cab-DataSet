@@ -1,0 +1,4 @@
+This project provides a comprehensive analysis of cab trip data to uncover patterns in profitability, customer demographics, and city-wise usage for Pink and Yellow Cab companies. Using Python, pandas, and visualization tools like Matplotlib and Seaborn, I calculated trip profits, examined income and city-based trends, and analyzed historical data to identify key insights.
+The analysis revealed that Yellow Cabs consistently outperform Pink Cabs in profitability, user base, and city coverage, indicating a strong market presence. 
+By merging transaction and customer data, I also explored the relationship between income levels and cab usage, highlighting actionable insights for strategic investment and operational optimization. 
+This project showcases a combination of data cleaning, exploratory analysis, and visualization skills to drive data-informed business decisions.
